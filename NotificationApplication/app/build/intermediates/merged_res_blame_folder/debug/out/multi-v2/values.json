@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\karle\\AndroidStudioProjects\\NotificationApplication\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "C:\\Users\\karle\\AndroidStudioProjects\\NotificationApplication - Backup\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
                     "source": "C:\\Users\\karle\\.gradle\\caches\\transforms-2\\files-2.1\\ae31cc97a3f9383e0242537d69427d3a\\core-1.1.0\\res\\values\\values.xml",
@@ -42,7 +42,24 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\karle\\AndroidStudioProjects\\NotificationApplication\\app\\src\\main\\res\\values\\strings.xml",
+                    "source": "C:\\Users\\karle\\AndroidStudioProjects\\NotificationApplication - Backup\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "7,2,3,4,5,6,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "293,57,105,153,201,247,336",
+                        "endColumns": "41,46,46,46,44,44,41",
+                        "endOffsets": "330,99,147,195,241,287,373"
+                    },
+                    "to": {
+                        "startLines": "224,312,313,314,325,326,329",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "11641,17634,17681,17728,18472,18517,18683",
+                        "endColumns": "41,46,46,46,44,44,41",
+                        "endOffsets": "11678,17676,17723,17770,18512,18557,18720"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\karle\\AndroidStudioProjects\\NotificationApplication - Backup\\app\\src\\main\\res\\values\\strings.xml",
                     "from": {
                         "startLines": "1",
                         "startColumns": "4",
@@ -171,6 +188,25 @@
                     }
                 },
                 {
+                    "source": "C:\\Users\\karle\\AndroidStudioProjects\\NotificationApplication - Backup\\app\\src\\main\\res\\values\\themes.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "102",
+                        "endLines": "14",
+                        "endColumns": "12",
+                        "endOffsets": "846"
+                    },
+                    "to": {
+                        "startLines": "3401",
+                        "startColumns": "4",
+                        "startOffsets": "227348",
+                        "endLines": "3413",
+                        "endColumns": "12",
+                        "endOffsets": "228078"
+                    }
+                },
+                {
                     "source": "C:\\Users\\karle\\.gradle\\caches\\transforms-2\\files-2.1\\5fcf58f467c61301f7dd22175ddca6ba\\coordinatorlayout-1.1.0\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,3,6,16",
@@ -190,25 +226,6 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\karle\\AndroidStudioProjects\\NotificationApplication\\app\\src\\main\\res\\values\\themes.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "102",
-                        "endLines": "14",
-                        "endColumns": "12",
-                        "endOffsets": "846"
-                    },
-                    "to": {
-                        "startLines": "3401",
-                        "startColumns": "4",
-                        "startOffsets": "227348",
-                        "endLines": "3413",
-                        "endColumns": "12",
-                        "endOffsets": "228078"
-                    }
-                },
-                {
                     "source": "C:\\Users\\karle\\.gradle\\caches\\transforms-2\\files-2.1\\76a75c6502d93031e6f1d463ce4e8940\\recyclerview-1.1.0\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10",
@@ -225,23 +242,6 @@
                         "endLines": "181,469,470,471,479,480,481,698,6383",
                         "endColumns": "55,58,47,55,74,75,71,65,24",
                         "endOffsets": "9005,28044,28092,28148,28834,28910,28982,42894,405447"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\karle\\AndroidStudioProjects\\NotificationApplication\\app\\src\\main\\res\\values\\colors.xml",
-                    "from": {
-                        "startLines": "7,2,3,4,5,6,8",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "293,57,105,153,201,247,336",
-                        "endColumns": "41,46,46,46,44,44,41",
-                        "endOffsets": "330,99,147,195,241,287,373"
-                    },
-                    "to": {
-                        "startLines": "224,312,313,314,325,326,329",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "11641,17634,17681,17728,18472,18517,18683",
-                        "endColumns": "41,46,46,46,44,44,41",
-                        "endOffsets": "11678,17676,17723,17770,18512,18557,18720"
                     }
                 }
             ]
