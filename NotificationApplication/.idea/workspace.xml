@@ -21,14 +21,32 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="layoutResourceFile_vertical" />
+        <option value="resourceFile" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1pPWSH3zl5nPRUx5ioQxVqoSdFV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -123,10 +141,18 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="351" y="0" key="#app" timestamp="1615687333725">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="351" y="0" key="#app/0.0.1280.680@0.0.1280.680" timestamp="1615687333725" />
     <state x="221" y="96" key="AndroidCreateResourceDirectoryDialog" timestamp="1615086499933">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="221" y="96" key="AndroidCreateResourceDirectoryDialog/0.0.1280.680@0.0.1280.680" timestamp="1615086499933" />
+    <state x="221" y="96" key="AndroidCreateResourceFileDialog" timestamp="1615687210060">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="221" y="96" key="AndroidCreateResourceFileDialog/0.0.1280.680@0.0.1280.680" timestamp="1615687210060" />
     <state x="487" y="131" key="AndroidCreateXmlResourceDialog" timestamp="1615086403747">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -159,9 +185,13 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="452" y="119" key="chooseDestDirectoryDialog/0.0.1280.680@0.0.1280.680" timestamp="1615086032111" />
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1615508057015">
+    <state x="298" y="151" width="672" height="677" key="run.anything.popup" timestamp="1615687352307">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1615508057015" />
+    <state x="298" y="151" width="672" height="677" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1615687352307" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1615687359006">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1615687359006" />
   </component>
 </project>

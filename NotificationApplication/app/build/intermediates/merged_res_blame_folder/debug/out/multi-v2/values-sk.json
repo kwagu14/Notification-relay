@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\karle\\AndroidStudioProjects\\NotificationApplication - Backup\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sk\\values-sk.xml",
+            "outputFile": "C:\\Users\\karle\\Desktop\\Notification-relay\\NotificationApplication\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sk\\values-sk.xml",
             "map": [
                 {
                     "source": "C:\\Users\\karle\\.gradle\\caches\\transforms-2\\files-2.1\\ae31cc97a3f9383e0242537d69427d3a\\core-1.1.0\\res\\values-sk\\values-sk.xml",

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\karle\\AndroidStudioProjects\\NotificationApplication - Backup\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "C:\\Users\\karle\\Desktop\\Notification-relay\\NotificationApplication\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
                     "source": "C:\\Users\\karle\\.gradle\\caches\\transforms-2\\files-2.1\\ae31cc97a3f9383e0242537d69427d3a\\core-1.1.0\\res\\values\\values.xml",
@@ -39,40 +39,6 @@
                         "endLines": "4,12,18,34,35,36,44,55,56,57,60,61,64,67,68,69,70,71,74,77,78,79,80,85,88,91,92,93,98,99,100,103,106,107,110,113,116,119,120,123,126,127,132,133,138,141,144,145,146,147,148,149,150,151,152,153,162,5579,5580,5581,5895",
                         "endColumns": "60,11,47,51,60,45,11,60,59,69,11,67,11,11,61,64,67,66,11,11,66,64,64,11,11,11,65,66,11,68,65,11,11,66,11,11,11,11,64,11,11,64,11,66,11,11,11,64,61,61,61,58,59,60,60,58,11,2575,131,3263,107",
                         "endOffsets": "292,583,915,1725,1786,1832,2191,2781,2841,2911,3044,3112,3241,3367,3429,3494,3562,3629,3752,3877,3944,4009,4074,4255,4376,4497,4563,4630,4840,4909,4975,5100,5226,5293,5419,5546,5671,5798,5863,5989,6112,6177,6385,6452,6632,6752,6872,6937,6999,7061,7123,7182,7242,7303,7364,7423,7798,358962,359094,362358,380330"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\karle\\AndroidStudioProjects\\NotificationApplication - Backup\\app\\src\\main\\res\\values\\colors.xml",
-                    "from": {
-                        "startLines": "7,2,3,4,5,6,8",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "293,57,105,153,201,247,336",
-                        "endColumns": "41,46,46,46,44,44,41",
-                        "endOffsets": "330,99,147,195,241,287,373"
-                    },
-                    "to": {
-                        "startLines": "224,312,313,314,325,326,329",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "11641,17634,17681,17728,18472,18517,18683",
-                        "endColumns": "41,46,46,46,44,44,41",
-                        "endOffsets": "11678,17676,17723,17770,18512,18557,18720"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\karle\\AndroidStudioProjects\\NotificationApplication - Backup\\app\\src\\main\\res\\values\\strings.xml",
-                    "from": {
-                        "startLines": "1",
-                        "startColumns": "4",
-                        "startOffsets": "17",
-                        "endColumns": "60",
-                        "endOffsets": "73"
-                    },
-                    "to": {
-                        "startLines": "785",
-                        "startColumns": "4",
-                        "startOffsets": "48068",
-                        "endColumns": "60",
-                        "endOffsets": "48124"
                     }
                 },
                 {
@@ -188,7 +154,24 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\karle\\AndroidStudioProjects\\NotificationApplication - Backup\\app\\src\\main\\res\\values\\themes.xml",
+                    "source": "C:\\Users\\karle\\Desktop\\Notification-relay\\NotificationApplication\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "17",
+                        "endColumns": "60",
+                        "endOffsets": "73"
+                    },
+                    "to": {
+                        "startLines": "785",
+                        "startColumns": "4",
+                        "startOffsets": "48068",
+                        "endColumns": "60",
+                        "endOffsets": "48124"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\karle\\Desktop\\Notification-relay\\NotificationApplication\\app\\src\\main\\res\\values\\themes.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -242,6 +225,23 @@
                         "endLines": "181,469,470,471,479,480,481,698,6383",
                         "endColumns": "55,58,47,55,74,75,71,65,24",
                         "endOffsets": "9005,28044,28092,28148,28834,28910,28982,42894,405447"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\karle\\Desktop\\Notification-relay\\NotificationApplication\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "7,2,3,4,5,6,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "293,57,105,153,201,247,336",
+                        "endColumns": "41,46,46,46,44,44,41",
+                        "endOffsets": "330,99,147,195,241,287,373"
+                    },
+                    "to": {
+                        "startLines": "224,312,313,314,325,326,329",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "11641,17634,17681,17728,18472,18517,18683",
+                        "endColumns": "41,46,46,46,44,44,41",
+                        "endOffsets": "11678,17676,17723,17770,18512,18557,18720"
                     }
                 }
             ]
