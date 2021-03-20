@@ -9,13 +9,18 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cebc0364-18d8-45da-bbf5-4a1155f33ff4" name="Default Changelist" comment="" />
+    <list default="true" id="cebc0364-18d8-45da-bbf5-4a1155f33ff4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/notificationapplication/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/notificationapplication/MainActivity.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[R38MB07N7MW]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -157,10 +162,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="487" y="131" key="AndroidCreateXmlResourceDialog/0.0.1280.680@0.0.1280.680" timestamp="1615086403747" />
-    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1615672985842">
+    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1616267785167">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1615672985842" />
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1616267785167" />
     <state width="1236" height="155" key="GridCell.Tab.0.bottom" timestamp="1615611204537">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -189,9 +194,9 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="298" y="151" width="672" height="677" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1615687352307" />
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1615687359006">
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1616225786458">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1615687359006" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1616225786458" />
   </component>
 </project>

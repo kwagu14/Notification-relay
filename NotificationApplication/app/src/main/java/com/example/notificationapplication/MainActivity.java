@@ -57,7 +57,7 @@ public class MainActivity extends AppCompatActivity {
         builder.setContentText(content) ;
         builder.setSmallIcon(R.drawable.ic_launcher_foreground) ;
         builder.setAutoCancel( true ) ;
-        builder.setChannelId( NOTIFICATION_CHANNEL_ID ) ;
+        builder.setChannelId(NOTIFICATION_CHANNEL_ID) ;
         return builder.build() ;
     }
 
