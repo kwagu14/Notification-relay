@@ -1,5 +1,7 @@
 com/example/notificationapplication/BuildConfig.java
  com.example.notificationapplication.BuildConfig
+com/example/notificationapplication/HelloReceiver.java
+ com.example.notificationapplication.HelloReceiver
 com/example/notificationapplication/MainActivity.java
  com.example.notificationapplication.MainActivity
  com.example.notificationapplication.MainActivity$1

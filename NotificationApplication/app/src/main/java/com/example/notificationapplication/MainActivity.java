@@ -3,6 +3,7 @@ package com.example.notificationapplication;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.app.TimePickerDialog;
+import android.content.BroadcastReceiver;
 import android.os.Bundle;
 import android.app.AlarmManager;
 import android.app.DatePickerDialog;
@@ -11,6 +12,8 @@ import android.app.PendingIntent;
 import android.content.Context;
 import android.content.Intent;
 import androidx.core.app.NotificationCompat;
+
+import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.DatePicker;
@@ -25,7 +28,6 @@ public class MainActivity extends AppCompatActivity {
 
     public static final String NOTIFICATION_CHANNEL_ID = "10001" ;
     private final static String default_notification_channel_id = "default" ;
-    Button btnDate;
     final Calendar myCalendar = Calendar.getInstance () ;
 
     @Override
@@ -52,12 +54,18 @@ public class MainActivity extends AppCompatActivity {
 
     //here we are returning the notification object to be sent to the user
     private Notification getNotification (String content) {
+        //Gets the information by calling the methods
+        Intent helloIntent = new Intent(this, HelloReceiver.class); //Change the broadcast receiver to be specific
+        //helloIntent.setAction("Hello!");
+        PendingIntent pintent = PendingIntent.getBroadcast(this, 0, helloIntent, 0);
+
         NotificationCompat.Builder builder = new NotificationCompat.Builder( this, default_notification_channel_id ) ;
         builder.setContentTitle( "Scheduled Notification" ) ;
         builder.setContentText(content) ;
         builder.setSmallIcon(R.drawable.ic_launcher_foreground) ;
         builder.setAutoCancel( true ) ;
         builder.setChannelId(NOTIFICATION_CHANNEL_ID) ;
+        builder.addAction(R.drawable. ic_launcher_foreground , "Hello!" , pintent);
         return builder.build() ;
     }
 
@@ -110,6 +118,7 @@ public class MainActivity extends AppCompatActivity {
         SimpleDateFormat sdf = new SimpleDateFormat(myFormat , Locale. getDefault ());
 
         //this is the chosenTime from the user (TODO: need to get specified time from user)
+        Log.d("notif-debug", "Cal: " + myCalendar.get(Calendar.MONTH));
         long chosenTime = myCalendar.getTimeInMillis();
         long currentTime = System.currentTimeMillis();
         long delay = chosenTime - currentTime;

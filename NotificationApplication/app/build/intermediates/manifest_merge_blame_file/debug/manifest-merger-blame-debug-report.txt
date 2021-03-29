@@ -15,7 +15,7 @@
 11-->C:\Users\karle\Desktop\Notification-relay\NotificationApplication\app\src\main\AndroidManifest.xml:5:22-65
 12
 13    <application
-13-->C:\Users\karle\Desktop\Notification-relay\NotificationApplication\app\src\main\AndroidManifest.xml:7:5-27:19
+13-->C:\Users\karle\Desktop\Notification-relay\NotificationApplication\app\src\main\AndroidManifest.xml:7:5-33:19
 14        android:allowBackup="true"
 14-->C:\Users\karle\Desktop\Notification-relay\NotificationApplication\app\src\main\AndroidManifest.xml:8:9-37
 15        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
@@ -55,6 +55,14 @@
 33-->C:\Users\karle\Desktop\Notification-relay\NotificationApplication\app\src\main\AndroidManifest.xml:24:13-35
 34            android:exported="false" />
 34-->C:\Users\karle\Desktop\Notification-relay\NotificationApplication\app\src\main\AndroidManifest.xml:25:13-37
-35    </application>
-36
-37</manifest>
+35        <receiver
+35-->C:\Users\karle\Desktop\Notification-relay\NotificationApplication\app\src\main\AndroidManifest.xml:28:9-32:15
+36            android:name="com.example.notificationapplication.HelloReceiver"
+36-->C:\Users\karle\Desktop\Notification-relay\NotificationApplication\app\src\main\AndroidManifest.xml:29:13-43
+37            android:enabled="true"
+37-->C:\Users\karle\Desktop\Notification-relay\NotificationApplication\app\src\main\AndroidManifest.xml:30:13-35
+38            android:exported="false" />
+38-->C:\Users\karle\Desktop\Notification-relay\NotificationApplication\app\src\main\AndroidManifest.xml:31:13-37
+39    </application>
+40
+41</manifest>

@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\karle\Desktop\Notification-relay\NotificationApplication\app\src\main\AndroidManifest.xml:2:1-29:12
-INJECTED from C:\Users\karle\Desktop\Notification-relay\NotificationApplication\app\src\main\AndroidManifest.xml:2:1-29:12
-INJECTED from C:\Users\karle\Desktop\Notification-relay\NotificationApplication\app\src\main\AndroidManifest.xml:2:1-29:12
-INJECTED from C:\Users\karle\Desktop\Notification-relay\NotificationApplication\app\src\main\AndroidManifest.xml:2:1-29:12
+ADDED from C:\Users\karle\Desktop\Notification-relay\NotificationApplication\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\karle\Desktop\Notification-relay\NotificationApplication\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\karle\Desktop\Notification-relay\NotificationApplication\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\karle\Desktop\Notification-relay\NotificationApplication\app\src\main\AndroidManifest.xml:2:1-35:12
 MERGED from [com.google.android.material:material:1.1.0] C:\Users\karle\.gradle\caches\transforms-2\files-2.1\8ad8269c0a879b235a19dc8e7219d938\material-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\karle\.gradle\caches\transforms-2\files-2.1\9f7e7a548ad00e2e3c3268a409525997\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\karle\.gradle\caches\transforms-2\files-2.1\d6fdfaaabf2017e1a46426335e1b873c\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
@@ -31,20 +31,20 @@ MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\karle\.gradle\ca
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\karle\.gradle\caches\transforms-2\files-2.1\5e93b9f41c3983a761aa6e19533f24ec\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\karle\.gradle\caches\transforms-2\files-2.1\1435e0b5216c3fd72a2d6579c29d3ee1\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\karle\.gradle\caches\transforms-2\files-2.1\035487676af6db782633ffbdc1d98b21\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\karle\Desktop\Notification-relay\NotificationApplication\app\src\main\AndroidManifest.xml:2:1-29:12
-INJECTED from C:\Users\karle\Desktop\Notification-relay\NotificationApplication\app\src\main\AndroidManifest.xml:2:1-29:12
-INJECTED from C:\Users\karle\Desktop\Notification-relay\NotificationApplication\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\karle\Desktop\Notification-relay\NotificationApplication\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\karle\Desktop\Notification-relay\NotificationApplication\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\karle\Desktop\Notification-relay\NotificationApplication\app\src\main\AndroidManifest.xml:2:1-35:12
 	package
 		ADDED from C:\Users\karle\Desktop\Notification-relay\NotificationApplication\app\src\main\AndroidManifest.xml:3:5-50
 		INJECTED from C:\Users\karle\Desktop\Notification-relay\NotificationApplication\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\karle\Desktop\Notification-relay\NotificationApplication\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\karle\Desktop\Notification-relay\NotificationApplication\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\karle\Desktop\Notification-relay\NotificationApplication\app\src\main\AndroidManifest.xml:2:1-29:12
+		ADDED from C:\Users\karle\Desktop\Notification-relay\NotificationApplication\app\src\main\AndroidManifest.xml:2:1-35:12
 		INJECTED from C:\Users\karle\Desktop\Notification-relay\NotificationApplication\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\karle\Desktop\Notification-relay\NotificationApplication\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\karle\Desktop\Notification-relay\NotificationApplication\app\src\main\AndroidManifest.xml:2:1-29:12
+		ADDED from C:\Users\karle\Desktop\Notification-relay\NotificationApplication\app\src\main\AndroidManifest.xml:2:1-35:12
 		INJECTED from C:\Users\karle\Desktop\Notification-relay\NotificationApplication\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\karle\Desktop\Notification-relay\NotificationApplication\app\src\main\AndroidManifest.xml:2:11-69
@@ -53,7 +53,7 @@ ADDED from C:\Users\karle\Desktop\Notification-relay\NotificationApplication\app
 	android:name
 		ADDED from C:\Users\karle\Desktop\Notification-relay\NotificationApplication\app\src\main\AndroidManifest.xml:5:22-65
 application
-ADDED from C:\Users\karle\Desktop\Notification-relay\NotificationApplication\app\src\main\AndroidManifest.xml:7:5-27:19
+ADDED from C:\Users\karle\Desktop\Notification-relay\NotificationApplication\app\src\main\AndroidManifest.xml:7:5-33:19
 MERGED from [com.google.android.material:material:1.1.0] C:\Users\karle\.gradle\caches\transforms-2\files-2.1\8ad8269c0a879b235a19dc8e7219d938\material-1.1.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.1.0] C:\Users\karle\.gradle\caches\transforms-2\files-2.1\8ad8269c0a879b235a19dc8e7219d938\material-1.1.0\AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\karle\.gradle\caches\transforms-2\files-2.1\d6fdfaaabf2017e1a46426335e1b873c\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
@@ -98,6 +98,14 @@ ADDED from C:\Users\karle\Desktop\Notification-relay\NotificationApplication\app
 		ADDED from C:\Users\karle\Desktop\Notification-relay\NotificationApplication\app\src\main\AndroidManifest.xml:25:13-37
 	android:name
 		ADDED from C:\Users\karle\Desktop\Notification-relay\NotificationApplication\app\src\main\AndroidManifest.xml:23:13-53
+receiver#com.example.notificationapplication.HelloReceiver
+ADDED from C:\Users\karle\Desktop\Notification-relay\NotificationApplication\app\src\main\AndroidManifest.xml:28:9-32:15
+	android:enabled
+		ADDED from C:\Users\karle\Desktop\Notification-relay\NotificationApplication\app\src\main\AndroidManifest.xml:30:13-35
+	android:exported
+		ADDED from C:\Users\karle\Desktop\Notification-relay\NotificationApplication\app\src\main\AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from C:\Users\karle\Desktop\Notification-relay\NotificationApplication\app\src\main\AndroidManifest.xml:29:13-43
 uses-sdk
 INJECTED from C:\Users\karle\Desktop\Notification-relay\NotificationApplication\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\karle\Desktop\Notification-relay\NotificationApplication\app\src\main\AndroidManifest.xml
